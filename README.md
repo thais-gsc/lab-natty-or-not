@@ -1,16 +1,13 @@
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Livro de culinária sobre o básico da preparação de sushi.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Piktochart
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Selecionei a opção ebook e o assunto desejado, e a ferramenta gerou já com textos e imagens. Em seguida revisei as informações do livro e escolhi o tema mais adequado. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Resultados no arquivo livro_sushi.pdf.
